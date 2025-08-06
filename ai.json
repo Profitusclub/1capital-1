@@ -5,48 +5,6 @@
   "deposits": {
     "ruble": [
       {
-        "bankName": "ПСБ",
-        "productName": "Народный вклад",
-        "rate": 30.0,
-        "minAmount": 50000,
-        "maxAmount": 50000000,
-        "term": "91–367 дн.",
-        "termDays": 365,
-        "currency": "RUB",
-        "link": "https://www.psbb.ru/deposits/vklady/narodnyj/",
-        "isSpecialOffer": true,
-        "conditions": ["Новые клиенты", "Онлайн"],
-        "advantages": ["Максимальная ставка"]
-      },
-      {
-        "bankName": "Дом.РФ",
-        "productName": "Надежный промо",
-        "rate": 30.0,
-        "minAmount": 10000,
-        "maxAmount": 100000,
-        "term": "30 дн.",
-        "termDays": 30,
-        "currency": "RUB",
-        "link": "https://domrf.ru/deposit/promo/",
-        "isSpecialOffer": true,
-        "conditions": ["Онлайн"],
-        "advantages": ["Бонусная ставка"]
-      },
-      {
-        "bankName": "Ак Барс Банк",
-        "productName": "Жаркий процент",
-        "rate": 31.0,
-        "minAmount": 10000,
-        "maxAmount": 50000,
-        "term": "91 дн.",
-        "termDays": 91,
-        "currency": "RUB",
-        "link": "https://akbars.ru/deposits/zharkiy-procent/",
-        "isSpecialOffer": true,
-        "conditions": ["Только офлайн Татарстан"],
-        "advantages": ["Высокая ставка"]
-      },
-      {
         "bankName": "МКБ",
         "productName": "Преимущество+",
         "rate": 23.0,
