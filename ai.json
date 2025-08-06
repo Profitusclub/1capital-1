@@ -9,7 +9,7 @@
         "productName": "Народный вклад",
         "rate": 30.0,
         "minAmount": 50000,
-        "maxAmount": 50000000,
+        "maxAmount": 50000,
         "term": "91–367 дн.",
         "termDays": 365,
         "currency": "RUB",
